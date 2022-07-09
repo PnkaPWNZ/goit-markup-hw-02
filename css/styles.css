@@ -31,7 +31,13 @@ ul {
     line-height: 1.19;
     color: var(--title-text-color)
 }
-
+.logo-footer {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-size: 26px;
+    line-height: 1.19;
+    color: var(--background-color)
+}
 .logosecondclr{
    color: var(--accent-color)
 }
